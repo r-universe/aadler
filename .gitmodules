@@ -7,15 +7,19 @@
 	path = Delaporte
 	url = https://github.com/aadler/delaporte
 	shallow = true
+	registered = true
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/aadler/lamw
 	shallow = true
+	registered = true
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/aadler/pade
 	shallow = true
+	registered = true
 [submodule "revss"]
 	path = revss
 	url = https://github.com/aadler/revss
 	shallow = true
+	registered = true
