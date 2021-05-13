@@ -8,18 +8,22 @@
 	url = https://github.com/aadler/delaporte
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/aadler/lamw
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/aadler/pade
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "revss"]
 	path = revss
 	url = https://github.com/aadler/revss
 	shallow = true
 	registered = true
+	oncran = true
