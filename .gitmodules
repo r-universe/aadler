@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "revss"]
-	path = revss
-	url = https://github.com/aadler/revss
-	shallow = true
-	registered = true
-[submodule "Pade"]
-	path = Pade
-	url = https://github.com/aadler/pade
-	shallow = true
-	registered = true
 [submodule "Delaporte"]
 	path = Delaporte
 	url = https://github.com/aadler/delaporte
@@ -21,5 +11,15 @@
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/aadler/lamw
+	shallow = true
+	registered = true
+[submodule "Pade"]
+	path = Pade
+	url = https://github.com/aadler/pade
+	shallow = true
+	registered = true
+[submodule "revss"]
+	path = revss
+	url = https://github.com/aadler/revss
 	shallow = true
 	registered = true
