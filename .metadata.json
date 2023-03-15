@@ -1,10 +1,6 @@
 [
   {
-    "package": "Delaporte",
-    "oncran": true
-  },
-  {
-    "package": "lamW",
+    "package": "revss",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "revss",
+    "package": "Delaporte",
+    "oncran": true
+  },
+  {
+    "package": "lamW",
     "oncran": true
   }
 ]
