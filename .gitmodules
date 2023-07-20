@@ -8,6 +8,9 @@
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/aadler/lamw
+[submodule "minimaxApprox"]
+	path = minimaxApprox
+	url = https://github.com/aadler/minimaxapprox
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/aadler/pade
