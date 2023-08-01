@@ -5,15 +5,15 @@
 [submodule "Delaporte"]
 	path = Delaporte
 	url = https://github.com/aadler/delaporte
+[submodule "Pade"]
+	path = Pade
+	url = https://github.com/aadler/pade
 [submodule "lamW"]
 	path = lamW
 	url = https://github.com/aadler/lamw
 [submodule "minimaxApprox"]
 	path = minimaxApprox
 	url = https://github.com/aadler/minimaxapprox
-[submodule "Pade"]
-	path = Pade
-	url = https://github.com/aadler/pade
 [submodule "revss"]
 	path = revss
 	url = https://github.com/aadler/revss
