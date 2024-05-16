@@ -5,6 +5,9 @@
 [submodule "Delaporte"]
 	path = Delaporte
 	url = https://github.com/aadler/delaporte
+[submodule "MBBEFDLite"]
+	path = MBBEFDLite
+	url = https://github.com/aadler/mbbefdlite
 [submodule "Pade"]
 	path = Pade
 	url = https://github.com/aadler/pade
